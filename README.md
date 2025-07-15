@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+Projeto do curso Javascipt na Web: Armazenando dados no navegador
